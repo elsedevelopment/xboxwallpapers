@@ -1,0 +1,18 @@
+{
+  "name": "xbwallpapers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@node-minify/clean-css": "^6.2.0",
+    "@node-minify/core": "^6.2.0",
+    "@node-minify/html-minifier": "^6.2.0",
+    "sharp": "^0.32.4",
+    "webp-converter": "^2.3.3"
+  }
+}
