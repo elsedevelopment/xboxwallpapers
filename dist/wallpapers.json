@@ -1,5 +1,12 @@
 [
   {
+    "name": "Showcase 2023 KeyArt",
+    "url": "images/wallpapers/xbox-showcase.jpg",
+    "thumb": "images/wallpapers/xbox-showcase.thumb.webp",
+    "author": "Xbox",
+    "source_url": "https://www.xbox.com/es-AR/xbox-games-showcase-starfield-direct"
+  },
+  {
     "name": "Gamescom KeyArt",
     "url": "images/wallpapers/Gamescom_Keyart_16x9-Xbox-Final-b8ae83ba005cc7de9909.jpg",
     "thumb": "images/wallpapers/Gamescom_Keyart_16x9-Xbox-Final-b8ae83ba005cc7de9909.thumb.webp",
@@ -47,6 +54,27 @@
     "thumb": "images/wallpapers/Starfield_ShipInterior.thumb.webp",
     "author": "Bethesda",
     "source_url": "https://bethesda.net/en/game/starfield/media?type=image"
+  },
+  {
+    "name": "Forza Motorsport Key Art",
+    "url": "images/wallpapers/Forza_Motorsport_Key_Art.jpg",
+    "thumb": "images/wallpapers/Forza_Motorsport_Key_Art.thumb.webp",
+    "author": "Turn 10 / Xbox",
+    "source_url": "https://forza.net/motorsport"
+  },
+  {
+    "name": "Forza Motorsport Art",
+    "url": "images/wallpapers/Motorsports-Art.jpg",
+    "thumb": "images/wallpapers/Motorsports-Art.thumb.webp",
+    "author": "Turn 10 / Xbox",
+    "source_url": "https://forza.net/motorsport"
+  },
+  {
+    "name": "Forza Motorsport Showcase Art",
+    "url": "images/wallpapers/Forza_Motorsport_Xbox_Games_Showcase2023_Press_Kit_01.jpg",
+    "thumb": "images/wallpapers/Forza_Motorsport_Xbox_Games_Showcase2023_Press_Kit_01.thumb.webp",
+    "author": "Turn 10 / Xbox",
+    "source_url": "https://forza.net/motorsport"
   },
   {
     "name": "Blades Orange",
