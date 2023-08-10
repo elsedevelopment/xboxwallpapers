@@ -12,7 +12,7 @@ messages['es'] = []
 messages['es'] = [
     {
         "title": "Fondos de pantalla para tu <i class=\"fab fa-xbox\"></i>",
-        "dev": "Desarolado por",
+        "dev": "Desarrollado por",
         "created": "Creado por",
         "instructions": 'Coloca el cursor sobre la imagen y luego presiona el botón <i class="fas fa-bars"></i> en tu control. Selecciona la opción "Establecer como fondo" en el menú'
     }
